@@ -1,0 +1,17 @@
+- firstname: Lorenzo
+  lastname: Tortora de Falco
+  affiliation: Rome Tre University
+  country: Italy
+  webpage: http://logica.uniroma3.it/~tortora
+
+- firstname: Paolo
+  lastname: Pistone
+  affiliation: Claude Bernard University Lyon 1
+  country: France
+  webpage: https://perso.ens-lyon.fr/paolo.pistone/
+  
+- firstname: Stefano
+  lastname: Guerrini
+  affiliation: Sorbonne Paris Nord University
+  country: France
+  webpage: https://lipn.univ-paris13.fr/~guerrini/home/
