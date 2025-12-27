@@ -1,1 +1,61 @@
-TBD
+****************************************************                     
+AILA - XXIX Incontro di Logica
+*****************************************************
+
+Roma (Italy), 14-18 September 2026
+
+https://aila2026.github.io
+
+The Italian Association for Logic and its Application (AILA) organises every two years a meeting that gathers most of the Italian researchers studying mathematical, philosophical or computer science related aspects of logic. In 2026 the “Incontro di Logica” will take place in Rome (Italy). The meetings will feature plenary talks form leading international researchers, invited talks from the recipients of the AILA awards, and contributed talks.  Contributions from researchers of any nationality are welcome.
+
+Plenary talks 
+~~~~~~~~~~~~~~~~~
+Vito Michele Abrusci (Università Roma 3)
+Alessandro Berarducci (Dipartimento di Matematica, Università di Pisa)
+Giuseppe De Giacomo (Dipartimento di Ingegneria Informatica, Automatica e Gestionale, Sapienza Università di Roma)
+Su Gao (Nankai University, Tianjin, China)
+Luca Incurvati (Institute for Logic, Language and Computation, University of Amsterdam)
+Alexis Saurin (IRIF, CNRS-Université Paris Cité)
+Giovanni Soldà (Ghent University)
+Sara Ugolini (IIIA-CSIC, Barcellona)
+
+AILA award recipients
+~~~~~~~~~~~~~~~~~~~~~~
+Martina Iannella (TU Wien, Premio AILA-UMI “Franco Montagna”)
+To be awarded - Premio Lettieri 2025
+To be awarded - Premio Gentilini 2026
+To be awarded - Premio Gentilini 2026 - track biomedica
+
+Contributed talks
+~~~~~~~~~~~~~
+The Programme Committee of Incontro AILA welcomes submissions of abstracts from any researcher in the world. A list of topics in the scope of the conference includes:
+
+- category theory,
+- computability theory,
+- model theory,
+- logic and computer science,
+- logic and philosophy, 
+- non-classical logics,
+- proof theory,
+- set theory.
+
+Submission
+~~~~~~~~~~~~~
+The call for abstracts will be opened in late January.
+
+The deadline for submission is the 30th April 2026.
+Notifications of acceptance will be sent before the 15th June 2026.
+
+Programme Committee
+~~~~~~~~~~~~~~~~~~
+Stefano Berardi (Università di Torino)
+Paola D’Aquino (Università della Campania)
+Silvio Ghilardi (Università di Milano)
+Serafina Lapenta (Università di Salerno)
+Sonia L’Innocente (Università di Camerino)
+Alberto Marcone (Università di Udine)
+Paolo Pistone (Università di Bologna)
+Luca San Mauro (Università di Bari)
+Lorenzo Tortora De Falco (Università di Roma 3)
+Giorgio Venturi (Università di Pisa)
+Matteo Viale (Università di Torino)
