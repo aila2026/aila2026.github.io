@@ -1,5 +1,5 @@
 header.home {
-  height: 100vh;
+  height: 120vh;
   min-height: 500px;
   background-attachment: scroll;
   background-image: url('{{ site.baseurl }}/style/img/header-bg.jpg');
