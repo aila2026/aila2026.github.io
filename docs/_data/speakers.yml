@@ -10,3 +10,51 @@
 #     TBA
 #   link:
 #   webpage:
+
+- firstname: Vito Michele
+  lastname: Abrusci
+  affiliation: Università Roma Tre
+  country: Italy
+  webpage: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uniroma3.it/persone/K1RSeHlXSVdrUDhTTDh4TVl6WjRGV0RIWEpjdVZja3J5eGcwbzF3My9ZTT0%3D/&ved=2ahUKEwjqyqXH5PKRAxWIgf0HHdowBC8QFnoECCAQAQ&usg=AOvVaw0TyOpKwzYpI3dqz32Qidcl"
+
+- firstname: Alessandro
+  lastname: Berarducci
+  affiliation: Università di Pisa
+  country: Italy
+  webpage: "https://people.dm.unipi.it/berardu/"
+
+- firstname: Giuseppe
+  lastname: De Giacomo
+  affiliation: Sapienza Università di Roma
+  country: Italy
+  webpage: "http://www.diag.uniroma1.it/degiacomo"
+
+- firstname: Su
+  lastname: Gao
+  affiliation: Nankai University, Tianjin
+  country: China
+  webpage: "https://my.nankai.edu.cn/sms/gs_en/list.htm"
+
+- firstname: Luca
+  lastname: Incurvati
+  affiliation: University of Amsterdam
+  country: Netherlands
+  webpage: "http://sites.google.com/site/lucaincurvati/home"
+
+- firstname: Alexis
+  lastname: Saurin
+  affiliation: CNRS-Université Paris Cité
+  country: France
+  webpage: "https://www.irif.fr/users/saurin/index"
+
+- firstname: Giovanni
+  lastname: Soldà
+  affiliation: Ghent University
+  country: Belgium
+  webpage: "https://giovannisolda.github.io/"
+
+- firstname: Sara
+  lastname: Ugolini
+  affiliation: IIIA-CSIC, Barcelona
+  country: Spain
+  webpage: "https://ugolinisara.wordpress.com/"

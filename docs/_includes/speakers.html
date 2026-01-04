@@ -15,9 +15,13 @@
               </a>
             </span>
             -
-            {{ speaker.affiliation }}<br>
-            <b>{{ speaker.title }}</b><br>
-            {{ speaker.abstract }}
+            {{ speaker.affiliation }}, {{ speaker.country }}<br>
+            {% if speaker.title %}
+              <b>{{ speaker.title }}</b><br>
+              {% if speaker.abstract %}
+                {{ speaker.abstract }}
+              {% endif %}
+            {% endif %}
           </li>
           {% endfor %}
         {% else %}

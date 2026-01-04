@@ -41,8 +41,10 @@
       {% endif %}
 
       {% if site.data.program-committee.members %}
+        {% if site.data.program-committee.chair %}
         <h4>Members</h4>
-
+        {% endif %}
+        
         <ul>
           {% for member in site.data.program-committee.members %}
           <li>

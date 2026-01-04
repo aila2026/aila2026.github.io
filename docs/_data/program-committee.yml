@@ -13,3 +13,70 @@
 #     affiliation: ?
 #     country: ?
 #     webpage: ?
+
+members:
+- firstname: Stefano
+  lastname: Berardi
+  affiliation: Università di Torino
+  country: Italy
+  webpage: "https://www.di.unito.it/~berardi/"
+
+- firstname: Paola
+  lastname: D’Aquino
+  affiliation: Università della Campania Luigi Vanvitelli
+  country: Italy
+  webpage: "https://www.matfis.unicampania.it/docenti/daquino"
+
+- firstname: Silvio
+  lastname: Ghilardi
+  affiliation: Università di Milano
+  country: Italy
+  webpage: "https://users.unimi.it/ghilardi/"
+
+- firstname: Serafina
+  lastname: Lapenta
+  affiliation: Università di Salerno
+  country: Italy
+  webpage: "https://docenti.unisa.it/004918/home"
+
+- firstname: Sonia
+  lastname: L’Innocente
+  affiliation: Università di Camerino
+  country: Italy
+  webpage: "https://docenti.unicam.it/pd/sonia.linnocente"
+
+- firstname: Alberto
+  lastname: Marcone
+  affiliation: Università di Udine
+  country: Italy
+  webpage: "https://users.dimi.uniud.it/~alberto.marcone/"
+
+- firstname: Paolo
+  lastname: Pistone
+  affiliation: Università di Bologna
+  country: Italy
+  webpage: "https://www.unibo.it/sitoweb/paolo.pistone"
+
+- firstname: Luca
+  lastname: San Mauro
+  affiliation: Università di Bari Aldo Moro
+  country: Italy
+  webpage: "https://www.uniba.it/docenti/san-mauro-luca"
+
+- firstname: Lorenzo
+  lastname: Tortora De Falco
+  affiliation: Università Roma Tre
+  country: Italy
+  webpage: "https://www.mat.uniroma3.it/users/tortora/"
+
+- firstname: Giorgio
+  lastname: Venturi
+  affiliation: Università di Pisa
+  country: Italy
+  webpage: "https://people.dm.unipi.it/venturi/"
+
+- firstname: Matteo
+  lastname: Viale
+  affiliation: Università di Torino
+  country: Italy
+  webpage: "https://www.matteoviale.com/"
