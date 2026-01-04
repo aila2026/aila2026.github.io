@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 mx-auto">
+      {% if site.data.awards %}
+      <h2>Awards</h2>
+      <ul>
+        {% for item in site.data.awards %}
+        <li>
+          {% if item.winner %}
+          <span class="lead">
+            <a href="{{ item.winner.webpage }}">
+              {{ item.winner.firstname }}
+              {{ item.winner.lastname }}
+            </a>
+          </span>
+          -
+          {{ item.winner.affiliation }},
+          {{ item.winner.country }}
+          {% else %}
+          <span class="lead">TBA</span>
+          {% endif %}
+          <br />
+          <span><a href="{{ item.webpage }}"><em>{{ item.award }}</em></a></span>
+        </li>
+        {% endfor %}
+      </ul>      
+      {% endif %}
+    </div>
+  </div>
+</div>
