@@ -8,10 +8,28 @@
   webpage: "https://www.ailalogica.it/premi/premio-franco-montagna/"
 
 - award: Premio Lettieri 2025
+  winner: 
+    firstname: Marco
+    lastname: Abbadini
+    affiliation: Université Catholique de Louvain
+    country: Belgium
+    webpage: "https://marcoabbadini-uni.github.io"
   webpage: "https://www.ailalogica.it/premi/premio-ada-lettieri/"
 
 - award: Premio Gentilini 2026
+  winner: 
+    firstname: Marco
+    lastname: Abbadini
+    affiliation: Université Catholique de Louvain
+    country: Belgium
+    webpage: "https://marcoabbadini-uni.github.io"
   webpage: "https://www.ailalogica.it/premi/premio-paolo-gentilini/"
 
 - award: Premio Gentilini 2026 - track biomedica
+  winner: 
+    firstname: Laura
+    lastname: Bussi
+    affiliation: Università di Pisa
+    country: Italy
+    webpage: "https://pages.di.unipi.it/bussi/"
   webpage: "https://www.ailalogica.it/premi/premio-paolo-gentilini/"
